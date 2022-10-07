@@ -1,0 +1,42 @@
+Resources 
+
+
+The Racket Guide 
+	https://docs.racket-lang.org/guide/index.html
+
+The Racket Reference 
+	https://docs.racket-lang.org/reference/index.html
+
+Parser Tools: lex and yacc-style Parsing 
+	https://docs.racket-lang.org/parser-tools/index.html
+
+Lexical Analysis in Racket 
+	https://matt.might.net/articles/lexers-in-racket/
+		Note: The format for the scan function within the program is based off of the sre lexer in this article 
+
+Textbook 
+	Programming Language Pragmatics 4th Edition, by Michael Scott  
+		Note: The format of the recursive parsing within the program is based of off the pseudocode in this textbook
+
+Racket Programming - Introduction to Racket 
+	https://www.youtube.com/watch?v=FoPW4Ji6EAM
+
+Converting a File to List or String in Scheme 
+	https://stackoverflow.com/questions/10466848/converting-a-file-to-list-or-string-in-scheme
+
+Beautiful Racket - Lists 
+	https://beautifulracket.com/explainer/lists.html
+
+Iterating Through a List in Racket 
+	https://stackoverflow.com/questions/25826323/iterating-through-a-list-in-racket 
+
+Racket Values 
+	https://cs.wellesley.edu/~cs251/f17/slides/racket-lists_4up.pdf
+
+Application: Not a Procedure Racket 
+	https://stackoverflow.com/questions/23296384/application-not-a-procedure-racket
+
+Racket Cheat Sheet 
+	http://web.mit.edu/racket_v612/amd64_ubuntu1404/racket/doc/racket-cheat/index.html
+
+
